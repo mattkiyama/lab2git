@@ -2,3 +2,4 @@ Name: Matthew Kiyama
 Major: Computer Science and Engineering
 Year: 4
 Hobbies: Cooking, building mechanical keyboards
+Course List: JAPN2, COEN195, COEN174, COEN174L, ENGR111
